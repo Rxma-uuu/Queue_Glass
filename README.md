@@ -1,4 +1,4 @@
-# QUEUEGLASS — High-Frequency L3 Order Book Engine & Quantitative Research Platform
+# QUEUEGLASS, a High-Frequency L3 Order Book Engine & Quantitative Research Platform
 
 QUEUEGLASS is a high-performance, deterministic L3 matching engine and quantitative research terminal built in C++20 with a Jetpack Compose Android interface. It enables real-time level-3 order book simulation, microstructure strategy backtesting, execution policy comparison (Immediate vs. TWAP vs. Passive Limit), and AI-driven quantitative research.
 
@@ -49,8 +49,6 @@ QUEUEGLASS is a high-performance, deterministic L3 matching engine and quantitat
 ## Setup & Build Instructions
 
 ### Prerequisites
-- Android Studio 2026.1+ (or Ladybug+)
-- Android NDK & CMake 3.22.1
 - JDK 17 / Kotlin 2.0+
 
 ### Building the Project
